@@ -54,5 +54,12 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id":"9",
+        "title": "Yamaha XSR 900",
+        "image": "Yamaha-XSR-900.jpg",
+        "description": "I'ts a cool motorcycle",
+        "price": 12000.00
     }
 ]
